@@ -32,7 +32,6 @@
 #include "tommyarrayblk.c"
 #include "tommyarrayblkof.c"
 #include "tommylist.c"
-#include "tommytree.c"
 #include "tommytrie.c"
 #include "tommytrieinp.c"
 #include "tommyhashtbl.c"
